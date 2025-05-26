@@ -1,2 +1,3 @@
-streamlit
-camelcase
+streamlit~=1.45.1
+camelcase~=0.2
+pygame~=2.5.2
